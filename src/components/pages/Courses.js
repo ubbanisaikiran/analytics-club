@@ -1,9 +1,9 @@
 import React from 'react'
-
+import "./Page.css"
+import Cards from '../../utilis/Cards'
 const Courses = () => {
   return (
-    <div><h1>Courses</h1>
-    </div>
+    <Cards />
   )
 }
 

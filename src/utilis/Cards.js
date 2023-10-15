@@ -13,33 +13,33 @@ function Cards() {
               src='images/python.png'
               text='Explore the python features helps for quick and fast Anlaysis of Data'
               label='Python'
-              path='/Courses'
+              path='/Courses/material'
             />
             <CardItem
               src='images/saas.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              text='SaaS is a cloud-based software distribution model in which applications are hosted and maintained '
               label='SaaS'
-              path='/Courses'
+              path='/Courses/material'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-3.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
-              label='Mystery'
-              path='/Courses'
+              src='images/figma.png'
+              text='Design and prototyping tool used by designers to create and share user interfaces and interactive designs'
+              label='Figma'
+              path='/Courses/material'
             />
             <CardItem
-              src='images/img-4.jpg'
-              text='Experience Football on Top of the Himilayan Mountains'
-              label='Adventure'
-              path='/Courses'
+              src='images/sql.jpg'
+              text='SQL  is a domain-specific language used for managing and manipulating relational databases'
+              label='SQL'
+              path='/Courses/material'
             />
             <CardItem
-              src='images/img-8.jpg'
-              text='Ride through the Sahara Desert on a guided camel tour'
-              label='Adrenaline'
-              path='/sign-up'
+              src='images/blockchain.jpg'
+              text='Blockchain is a decentralized, distributed ledger technology that records transactions across multiple computers.'
+              label='Block chain'
+              path='/courses/material'
             />
           </ul>
         </div>
