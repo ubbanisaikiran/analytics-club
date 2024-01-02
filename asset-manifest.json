@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/analytics-club/static/css/main.cd17edcc.css",
-    "main.js": "/analytics-club/static/js/main.6f3a627d.js",
+    "main.js": "/analytics-club/static/js/main.43ef68d9.js",
     "index.html": "/analytics-club/index.html",
     "main.cd17edcc.css.map": "/analytics-club/static/css/main.cd17edcc.css.map",
-    "main.6f3a627d.js.map": "/analytics-club/static/js/main.6f3a627d.js.map"
+    "main.43ef68d9.js.map": "/analytics-club/static/js/main.43ef68d9.js.map"
   },
   "entrypoints": [
     "static/css/main.cd17edcc.css",
-    "static/js/main.6f3a627d.js"
+    "static/js/main.43ef68d9.js"
   ]
 }
