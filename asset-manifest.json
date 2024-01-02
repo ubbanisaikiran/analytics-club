@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/analytics-club/static/css/main.cd17edcc.css",
+    "main.js": "/analytics-club/static/js/main.6f3a627d.js",
+    "index.html": "/analytics-club/index.html",
+    "main.cd17edcc.css.map": "/analytics-club/static/css/main.cd17edcc.css.map",
+    "main.6f3a627d.js.map": "/analytics-club/static/js/main.6f3a627d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd17edcc.css",
+    "static/js/main.6f3a627d.js"
+  ]
+}
